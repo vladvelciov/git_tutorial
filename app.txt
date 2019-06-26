@@ -1,5 +1,10 @@
 The first entry.
-Somebody merged a feature branch in master.
-
-New line in master
-New line 2 in master.
+Somebody merged a feature branch in master.The second entry. Again.
+Entry 3.
+New line in masterEntry 4.
+New line 2 in master.Entry 4.
+Entry 6.
+Entry 7.
+Entry 8.
+Entry 9.
+Entry 10.
