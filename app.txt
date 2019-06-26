@@ -1,2 +1,5 @@
 The first entry.
 Somebody merged a feature branch in master.
+
+New line in master
+New line 2 in master.
