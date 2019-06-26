@@ -1,2 +1,4 @@
 The first entry.
-Some other entry.
+Some other entry. Changes it here.
+Some new line.
+Entry 4 B.
